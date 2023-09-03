@@ -1,1 +1,1 @@
-# Odin-recipes
+I am recreating a project in the odin curriculum that I completed about a year ago, at the moment my skill level is still that of a beginner with html. This project will feature a lasagna recipe and will be redefined and improved upon as I grow as a developer. 09/02/2023 The date will be as new descriptions each time the project evolves.
